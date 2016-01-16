@@ -7,6 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		95EF276D1C49D15A004654C6 /* RootTabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = 95EF276C1C49D15A004654C6 /* RootTabBarController.m */; };
+		95EF27731C49D2F9004654C6 /* RecommendController.m in Sources */ = {isa = PBXBuildFile; fileRef = 95EF27721C49D2F9004654C6 /* RecommendController.m */; };
+		95EF27761C49D363004654C6 /* CityHunterController.m in Sources */ = {isa = PBXBuildFile; fileRef = 95EF27751C49D363004654C6 /* CityHunterController.m */; };
+		95EF27791C49D38C004654C6 /* FriendController.m in Sources */ = {isa = PBXBuildFile; fileRef = 95EF27781C49D38C004654C6 /* FriendController.m */; };
+		95EF277C1C49D424004654C6 /* UserController.m in Sources */ = {isa = PBXBuildFile; fileRef = 95EF277B1C49D424004654C6 /* UserController.m */; };
+		95EF27821C49DDCF004654C6 /* user.png in Resources */ = {isa = PBXBuildFile; fileRef = 95EF27811C49DDCF004654C6 /* user.png */; };
+		95EF27841C49DE9F004654C6 /* user1.png in Resources */ = {isa = PBXBuildFile; fileRef = 95EF27831C49DE9F004654C6 /* user1.png */; };
+		95EF27881C49DFE2004654C6 /* iconfont-hand.png in Resources */ = {isa = PBXBuildFile; fileRef = 95EF27871C49DFE2004654C6 /* iconfont-hand.png */; };
+		95EF278A1C49E06B004654C6 /* iconfont-wode.png in Resources */ = {isa = PBXBuildFile; fileRef = 95EF27891C49E06B004654C6 /* iconfont-wode.png */; };
+		95EF278C1C49E111004654C6 /* iconfont-users.png in Resources */ = {isa = PBXBuildFile; fileRef = 95EF278B1C49E111004654C6 /* iconfont-users.png */; };
+		95EF278E1C49E17B004654C6 /* iconfont-youxishoubing.png in Resources */ = {isa = PBXBuildFile; fileRef = 95EF278D1C49E17B004654C6 /* iconfont-youxishoubing.png */; };
+		95EF27921C49E4F3004654C6 /* iconfont-tianjia.png in Resources */ = {isa = PBXBuildFile; fileRef = 95EF27911C49E4F3004654C6 /* iconfont-tianjia.png */; };
 		95EFB8641C4928B6006CFC9D /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 95EFB8631C4928B6006CFC9D /* main.m */; };
 		95EFB86D1C4928B6006CFC9D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 95EFB86B1C4928B6006CFC9D /* Main.storyboard */; };
 		95EFB86F1C4928B6006CFC9D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 95EFB86E1C4928B6006CFC9D /* Assets.xcassets */; };
@@ -22,6 +34,23 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		95EF276B1C49D15A004654C6 /* RootTabBarController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootTabBarController.h; sourceTree = "<group>"; };
+		95EF276C1C49D15A004654C6 /* RootTabBarController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootTabBarController.m; sourceTree = "<group>"; };
+		95EF27711C49D2F9004654C6 /* RecommendController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RecommendController.h; sourceTree = "<group>"; };
+		95EF27721C49D2F9004654C6 /* RecommendController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RecommendController.m; sourceTree = "<group>"; };
+		95EF27741C49D363004654C6 /* CityHunterController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CityHunterController.h; sourceTree = "<group>"; };
+		95EF27751C49D363004654C6 /* CityHunterController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CityHunterController.m; sourceTree = "<group>"; };
+		95EF27771C49D38C004654C6 /* FriendController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FriendController.h; sourceTree = "<group>"; };
+		95EF27781C49D38C004654C6 /* FriendController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FriendController.m; sourceTree = "<group>"; };
+		95EF277A1C49D424004654C6 /* UserController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UserController.h; sourceTree = "<group>"; };
+		95EF277B1C49D424004654C6 /* UserController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UserController.m; sourceTree = "<group>"; };
+		95EF27811C49DDCF004654C6 /* user.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = user.png; sourceTree = "<group>"; };
+		95EF27831C49DE9F004654C6 /* user1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = user1.png; sourceTree = "<group>"; };
+		95EF27871C49DFE2004654C6 /* iconfont-hand.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iconfont-hand.png"; sourceTree = "<group>"; };
+		95EF27891C49E06B004654C6 /* iconfont-wode.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iconfont-wode.png"; sourceTree = "<group>"; };
+		95EF278B1C49E111004654C6 /* iconfont-users.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iconfont-users.png"; sourceTree = "<group>"; };
+		95EF278D1C49E17B004654C6 /* iconfont-youxishoubing.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iconfont-youxishoubing.png"; sourceTree = "<group>"; };
+		95EF27911C49E4F3004654C6 /* iconfont-tianjia.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iconfont-tianjia.png"; sourceTree = "<group>"; };
 		95EFB85F1C4928B6006CFC9D /* TourismProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TourismProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		95EFB8631C4928B6006CFC9D /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		95EFB86C1C4928B6006CFC9D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -119,6 +148,8 @@
 			children = (
 				95EFB87B1C492946006CFC9D /* AppDelegate.h */,
 				95EFB87C1C492946006CFC9D /* AppDelegate.m */,
+				95EF276B1C49D15A004654C6 /* RootTabBarController.h */,
+				95EF276C1C49D15A004654C6 /* RootTabBarController.m */,
 			);
 			path = Application;
 			sourceTree = "<group>";
@@ -145,6 +176,14 @@
 		95EFB87F1C492946006CFC9D /* Controller */ = {
 			isa = PBXGroup;
 			children = (
+				95EF27711C49D2F9004654C6 /* RecommendController.h */,
+				95EF27721C49D2F9004654C6 /* RecommendController.m */,
+				95EF27741C49D363004654C6 /* CityHunterController.h */,
+				95EF27751C49D363004654C6 /* CityHunterController.m */,
+				95EF27771C49D38C004654C6 /* FriendController.h */,
+				95EF27781C49D38C004654C6 /* FriendController.m */,
+				95EF277A1C49D424004654C6 /* UserController.h */,
+				95EF277B1C49D424004654C6 /* UserController.m */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -185,6 +224,13 @@
 		95EFB8881C492946006CFC9D /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				95EF27911C49E4F3004654C6 /* iconfont-tianjia.png */,
+				95EF278D1C49E17B004654C6 /* iconfont-youxishoubing.png */,
+				95EF278B1C49E111004654C6 /* iconfont-users.png */,
+				95EF27891C49E06B004654C6 /* iconfont-wode.png */,
+				95EF27871C49DFE2004654C6 /* iconfont-hand.png */,
+				95EF27811C49DDCF004654C6 /* user.png */,
+				95EF27831C49DE9F004654C6 /* user1.png */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -274,8 +320,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				95EF27921C49E4F3004654C6 /* iconfont-tianjia.png in Resources */,
+				95EF27821C49DDCF004654C6 /* user.png in Resources */,
+				95EF27841C49DE9F004654C6 /* user1.png in Resources */,
+				95EF278E1C49E17B004654C6 /* iconfont-youxishoubing.png in Resources */,
 				95EFB8721C4928B6006CFC9D /* LaunchScreen.storyboard in Resources */,
 				95EFB86F1C4928B6006CFC9D /* Assets.xcassets in Resources */,
+				95EF278C1C49E111004654C6 /* iconfont-users.png in Resources */,
+				95EF278A1C49E06B004654C6 /* iconfont-wode.png in Resources */,
+				95EF27881C49DFE2004654C6 /* iconfont-hand.png in Resources */,
 				95EFB86D1C4928B6006CFC9D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -288,12 +341,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				95EFB8991C4929AE006CFC9D /* AFHTTPSessionManager.m in Sources */,
+				95EF27731C49D2F9004654C6 /* RecommendController.m in Sources */,
+				95EF276D1C49D15A004654C6 /* RootTabBarController.m in Sources */,
 				95EFB89E1C4929AE006CFC9D /* AFURLSessionManager.m in Sources */,
 				95EFB89B1C4929AE006CFC9D /* AFSecurityPolicy.m in Sources */,
 				95EFB88A1C492946006CFC9D /* AppDelegate.m in Sources */,
 				95EFB8A11C492A18006CFC9D /* DataBaseTool.m in Sources */,
 				95EFB89C1C4929AE006CFC9D /* AFURLRequestSerialization.m in Sources */,
+				95EF277C1C49D424004654C6 /* UserController.m in Sources */,
+				95EF27761C49D363004654C6 /* CityHunterController.m in Sources */,
 				95EFB89A1C4929AE006CFC9D /* AFNetworkReachabilityManager.m in Sources */,
+				95EF27791C49D38C004654C6 /* FriendController.m in Sources */,
 				95EFB89D1C4929AE006CFC9D /* AFURLResponseSerialization.m in Sources */,
 				95EFB8641C4928B6006CFC9D /* main.m in Sources */,
 			);
@@ -446,6 +504,7 @@
 				95EFB8781C4928B6006CFC9D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

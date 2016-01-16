@@ -8,6 +8,9 @@
 
 #ifndef Project_APPHeader_h
 #define Project_APPHeader_h
-
+#import "RecommendController.h"
+#import "CityHunterController.h"
+#import "FriendController.h"
+#import "UserController.h"
 
 #endif
