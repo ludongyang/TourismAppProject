@@ -21,8 +21,8 @@
     self.window.backgroundColor = [UIColor whiteColor];
     [self.window makeKeyAndVisible];
     RootTabBarController * rootVC = [[RootTabBarController alloc] init];
-    UINavigationController * rootNC = [[UINavigationController alloc] initWithRootViewController:rootVC];
-    self.window.rootViewController = rootNC;
+    
+    self.window.rootViewController = rootVC;
     
     
     

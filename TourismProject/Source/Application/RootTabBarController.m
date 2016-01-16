@@ -32,13 +32,13 @@
     friendNC.tabBarItem = [[UITabBarItem alloc] initWithTitle:@"朋友" image:[UIImage imageNamed:@"iconfont-users"] selectedImage:[UIImage imageNamed:@""]];
     
     
-    UserController * userVC = [[UserController alloc] init];
-    UINavigationController * userNC = [[UINavigationController alloc] initWithRootViewController:userVC];
-    userNC.tabBarItem = [[UITabBarItem alloc] initWithTitle:@"我的" image:[UIImage imageNamed:@"iconfont-wode"] selectedImage:[UIImage imageNamed:@""]];
+    UserViewController * userVC = [[UserViewController alloc] init];
+    
+    userVC.tabBarItem = [[UITabBarItem alloc] initWithTitle:@"我的" image:[UIImage imageNamed:@"iconfont-wode"] selectedImage:[UIImage imageNamed:@""]];
     
     
     
-    self.viewControllers = @[recommedNC,cityNC,friendNC,userNC];
+    self.viewControllers = @[recommedNC,cityNC,friendNC,userVC];
     UIButton * button = [[UIButton alloc] init];
     UIImage * addImg = [UIImage imageNamed:@"iconfont-tianjia"];
     addImg = [addImg imageWithRenderingMode:(UIImageRenderingModeAlwaysOriginal)];

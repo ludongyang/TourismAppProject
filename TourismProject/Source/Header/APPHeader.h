@@ -11,6 +11,6 @@
 #import "RecommendController.h"
 #import "CityHunterController.h"
 #import "FriendController.h"
-#import "UserController.h"
+#import "UserViewController.h"
 
 #endif
